@@ -1,12 +1,12 @@
 # 数据源配置指南 Connector Configuration Guide
 
-## 基本信息 Basic Information
+## CH1 Basic Information
 
-### NAME
+### CH1.1 NAME
 MySQL
-### Plugin Version
+### CH1.2 Plugin Version
 2.10.2
-### Author
+### CH1.3 Author
 - Author Name: Sam
 - Author Slack: N/A
 - Author Wechat: N/A 
@@ -20,29 +20,29 @@ MySQL
 - 5.7
 - 8.x
 
-## 插件实现的源功能 Implemented Features
+## 插件实现的源功能 Implemented Features - as Source
 
 
-### 全量读 source-feature-full-sync
+#### 全量读 source-feature-full-sync
 
-### 增量读 source-feature-cdc
+#### 增量读 source-feature-cdc
 
-### 全量总数统计 source-feature-count
+#### 全量总数统计 source-feature-count
 
-### 增量指定时间 source-feature-cdc-time-point
+#### 增量指定时间 source-feature-cdc-time-point
 
-### 高级查询 source-feature-advance-query
+#### 高级查询 source-feature-advance-query
 
-### 查询索引 ###source-feature-load-index
+#### 查询索引 ###source-feature-load-index
 
-### 加载模型 source-feature-load-schema
+#### 加载模型 source-feature-load-schema
 
-### 获取表 source-feature-table-names
+#### 获取表 source-feature-table-names
 
-### DDL读取 source-feature-ddl
+#### DDL读取 source-feature-ddl
 
 
-## 插件实现的目标功能 Implemented Features
+## 插件实现的目标功能 Implemented Features - as Target
 
 
 #### 插入事件 target-feature-insert
@@ -63,11 +63,11 @@ MySQL
 
 #### DDL写入 target-feature-ddl
 
-## 作为源时候的数据库配置 Data Source Configurations 
+## 作为源时候的数据库配置 Configuration Notes for Source
 
-## 作为目标时候的数据库配置 Data Target Configurations 
+## 作为目标时候的数据库配置 Configuration Notes for Target
 
-## 类型映射表  Type Mapping 
+## 类型映射表  Type Mappings 
 
 ## Known L米他提
 ## 版本历史 Change Log 
