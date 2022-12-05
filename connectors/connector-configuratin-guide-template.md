@@ -20,6 +20,8 @@ MySQL
 - 5.7
 - 8.x
 
+## 已知问题列表 Known Issues
+
 ## 插件实现的源功能 Implemented Features - as Source
 
 
@@ -69,7 +71,7 @@ MySQL
 
 ## 类型映射表  Type Mappings 
 
-## Known L米他提
+
 ## 版本历史 Change Log 
 
 - 2020.01.03 Initial Version 
