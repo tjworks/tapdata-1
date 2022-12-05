@@ -1,12 +1,12 @@
 # 数据源配置指南 Connector Configuration Guide
 
-## CH1 Basic Information
+## Basic Information
 
-### CH1.1 NAME
+### NAME
 MySQL
-### CH1.2 Plugin Version
+### Plugin Version
 2.10.2
-### CH1.3 Author
+### Author
 - Author Name: Sam
 - Author Slack: N/A
 - Author Wechat: N/A 
